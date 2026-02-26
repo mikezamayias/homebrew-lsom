@@ -1,6 +1,6 @@
 cask "lsom" do
-  version "1.1.0"
-  sha256 "ae48669982ba4824f056166355e1cd3c8ab3c225534922458e0e0d5adc413646"
+  version "1.2.0"
+  sha256 "46aca43e7d4b633948f2f6b6e9a9e687ca9298a7c81b0fc87391b1195356a9f3"
 
   url "https://github.com/mikezamayias/lsom/releases/download/v#{version}/lsom-v#{version}.dmg"
   name "lsom"
