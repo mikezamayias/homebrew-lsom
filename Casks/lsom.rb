@@ -2,8 +2,7 @@ cask "lsom" do
   version "1.3.2"
   sha256 "96e1d07a9cbc7c3d39eb94fd46da11f684a38d0212222decc5fb57b6884bcc78"
 
-  url "https://github.com/mikezamayias/lsom/releases/download/v#{version}/lsom-v#{version}.dmg",
-      verified: "github.com/mikezamayias/lsom/"
+  url "https://lsom-landing.pages.dev/downloads/lsom-v#{version}.dmg"
   name "lsom"
   desc "Logitech Status on Mac - Monitor Logitech device battery from your menu bar"
   homepage "https://lsom-landing.pages.dev"
